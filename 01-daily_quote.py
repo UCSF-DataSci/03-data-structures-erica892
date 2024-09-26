@@ -16,7 +16,7 @@ from datetime import date
 
 
 quotes = [
-    # Create a list of quotes here
+    # Create a list of quotes here - hello.
 ]
 
 def get_quote_of_the_day(quotes):
